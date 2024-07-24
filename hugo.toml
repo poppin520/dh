@@ -11,8 +11,8 @@ copyright = "POPPIN DH"
 
 #网站信息，不显示，仅供搜索引擎参考
 [params]
-  keywords = "网址导航,dh.boke.us.kg,POPPIN 导航站"
-  description = "dh.boke.us.kg,网址导航"
+  keywords = "网址导航,dh.poppin.us.kg,POPPIN 导航站"
+  description = "dh.poppin.us.kg,网址导航"
 
 #是否开启搜索栏，true开启，false关闭
 [params.search]
