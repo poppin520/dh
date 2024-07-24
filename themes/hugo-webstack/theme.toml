@@ -4,7 +4,7 @@
 name = "POPPIN-DH"
 license = "MIT"
 licenselink = "https://github.com/oulh/hugo-webstack/blob/master/LICENSE"
-description = "a theme for website navigation, it's based on webstack. "
+description = "a theme for website navigation, it's based on POPPIN. "
 homepage = "https://dh.poppin.us.kg"
 tags = ["url", "navigation", "POPPIN"]
 features = ["minimalism", "simple"]
