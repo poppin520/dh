@@ -1,7 +1,7 @@
 ---
 
 - taxonomy: 博客
-  icon: fab fa-wordpress
+  icon:  fa-regular fa-wordpress
   links: 
     - title: POPPIN BOKE
       logo: images/logos/poppinboke.png
