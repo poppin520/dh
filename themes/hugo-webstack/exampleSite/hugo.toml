@@ -7,12 +7,12 @@ theme = "hugo-webstack"
 disablePathToLower = true
 
 #页脚：作者名字
-copyright = "oulh"
+copyright = "POPPIN"
 
 #网站信息，不显示，仅供搜索引擎参考
 [params]
-  keywords = "网址导航,webstack,hugo"
-  description = "Webstack Hugo版主题,网址导航"
+  keywords = "网址导航,dh.poppin.us.kg"
+  description = "POPPIN DH版主题,网址导航"
 
 #是否开启搜索栏，true开启，false关闭
 [params.search]
