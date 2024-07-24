@@ -7,7 +7,7 @@ theme = "POPPIN-DH"
 disablePathToLower = true
 
 #页脚：作者名字
-copyright = "POPPIN DH"
+copyright = "POPPIN"
 
 #网站信息，不显示，仅供搜索引擎参考
 [params]
