@@ -4,7 +4,7 @@
   icon: fa-star
   links: 
     - title: POPPIN BOKE
-      logo: 
+      logo: images/logos/poppinboke.png
       url: https://boke.poppin.eu.org/
       description: 个人博客！
     - title: 资源博客
