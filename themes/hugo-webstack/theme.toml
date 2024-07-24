@@ -12,10 +12,10 @@ min_version = "0.116.1"
 
 [author]
   name = "oulh"
-  homepage = "https://afengxiang.github.io/afx/"
+  homepage = "https://dh.poppin.us.kg"
 
 # If porting an existing theme
 [original]
   name = "webstack-hugo"
-  homepage = "https://iplaycode.github.io/nav/"
+  homepage = "https://dh.poppin.us.kg"
   repo = "https://github.com/iplaycode/webstack-hugo/tree/5e85297db430079c468dd33e78a945556973c73a/"
